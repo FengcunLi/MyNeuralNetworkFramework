@@ -2,7 +2,7 @@
 出于掌握神经网络的 Forward/Backward Propagation、Chain Rule for computing the derivative 的学习性目的，搭建了此框架，给出了常见神经网络 operation 的 forward 和 backward 方法。
 由于是用于学习目的，代码的封装性不足，计算图构建繁琐，“Learning in the hard way”。
 
-#### initializer
+#### Initializers
 1. zero_initializer
 2. xavier_initializer
 
